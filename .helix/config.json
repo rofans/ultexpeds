@@ -1,0 +1,15 @@
+{
+  "access": {
+    "admin": {
+      "role": {
+        "config": [
+          "rmanao@adobe.com"
+        ],
+        "publish": [
+          "rmanao@adobe.com"
+        ]
+      },
+      "requireAuth": "true"
+    }
+  }
+}
